@@ -1,0 +1,38 @@
+.trainings,.skills{padding-left: 30% ;
+  }
+
+.zeineb2,.zeineb,.zeineb3{
+
+
+}
+#cv,#cv2,#cv3{padding-left: 30% ;
+        }
+
+.core{
+	position: absolute;
+	padding-left: 5% ;
+	display: inline-block ;
+	border: 2px solid black;
+	background-color: skyblue;
+}
+.non{display: inline-block ;
+     border: 2px solid black;
+     background-color: skyblue ;
+    }
+.hob{display: inline-block ;
+     border: 2px solid black;
+     background-color: skyblue ;
+}
+body{ background-color: skyblue; }
+
+.core,.non,.hob{
+	height: 30em;
+	width: 100%;
+	text-align: center;
+	font-weight: 900 ;
+}
+img {
+  border-radius: 50%;
+}
+
+.container{ padding-bottom:20px; }
